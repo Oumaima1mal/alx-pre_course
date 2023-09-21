@@ -1,6 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX School"
 <<<<<<< HEAD
 =======
 
 >>>>>>> update_script
+=======
+echo "ALX School"
+>>>>>>> c1089dec90e4a9f0be131cf11c12a3c73cdb80b1
